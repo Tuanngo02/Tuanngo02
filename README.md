@@ -34,7 +34,13 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=tuanngo02&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-![snake gif](https://github.com/tuanngo02/tuanngo02/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuanngo02/tuanngo02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuanngo02/tuanngo02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuanngo02/tuanngo02/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tuanngo02&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Ngo Thanh Tuan</h1>
-<h3 align="center">A young-dumb 🤓 back end developer from VietNam</h3>
+<h3 align="center">A young 🤓 back end developer from VietNam</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🔭  I’m currently learning Backend
+- 🔭  I’m currently learning <b>Backend</b>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I'm 4th-year student at Vietnam–Korea University of Information and Communication Technology – VKU 
+- 🌱 I'm 4th-year student at <b>Vietnam–Korea University of Information and Communication Technology – VKU</b> 
 - 📫 How to reach me **thanhtuanhht0211@gmail.com**
 
 ### 💻 Languages and Tools:
